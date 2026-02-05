@@ -129,7 +129,6 @@ df_step1 = parse_action_blocks(resp.text)
 
 ```{python}
 print(df_step1.head())
-
 ```
 
 ## Step 2: Making the scraper dynamic
